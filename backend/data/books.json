@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "power",
+    "author": "Robert Greene",
+    "description": "this is a political book",
+    "published": "2004",
+    "image": "1722289353345-power.png",
+    "pdf": "1722289353349-power.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Journey of souls",
+    "author": "Micheal Newton",
+    "description": "this is a spiritual book",
+    "published": "2007",
+    "image": "1722290392069-JourneyOfSouls.jpg",
+    "pdf": "1722290392134-JourneyOfSouls.pdf"
+  }
+]
