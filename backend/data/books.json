@@ -1,20 +1,92 @@
 [
   {
-    "id": 1,
-    "title": "power",
-    "author": "Robert Greene",
-    "description": "this is a political book",
-    "published": "2004",
-    "image": "1722289353345-power.png",
-    "pdf": "1722289353349-power.pdf"
-  },
-  {
     "id": 2,
     "title": "Journey of souls",
     "author": "Micheal Newton",
     "description": "this is a spiritual book",
-    "published": "2007",
+    "Publisher": "2007",
     "image": "1722290392069-JourneyOfSouls.jpg",
     "pdf": "1722290392134-JourneyOfSouls.pdf"
+  },
+  {
+    "id": 3,
+    "title": "Sexual Murder",
+    "author": " Louis B. Schlesinger",
+    "description": "Forensic psychologist and author Louis B. Schlesinger delves deep into the minds of sexual murderers. It is a place where few dare to tread, but a necessary journey if we are to understand the motivations behind their inconceivable actions. Culminating nearly 30 years of experience analyzing sexually motivated homicides, Sexual Murder: Catathymic and Compulsive Homicides makes this complex phenomenon fully comprehensible.The author provides a strong foundation by first exploring the psychopathology of sexual homicide within the context of nonsexual homicide. He also discusses forensic assessment of the sexual murderer, theories of crime, and systems of homicide classification. The remaining chapters explore the two types of sexual murders: catathymic, caused by a breakthrough of underlying sexual conflicts, and compulsive, in which a fusion of sex and aggression results in a powerful internal drive that pushes the offender to seek out victims to kill - and the killing itself is sexually gratifying. Presenting both forms of sexual murder from a clinical-descriptive perspective, the book provides historical background and examines both planned and unplanned homicides for each. Finally, it considers prediction, disposition, and possibilities for preventing sexual murder.Providing a fresh approach to an old crime, Sexual Murder: Catathymic and Compulsive Homicides brings intriguing theories and detailed analyses to life. Through a variety of illustrative case examples from the author's vast experience, this amazing book will broaden your view of sexual murder and alter many preconceived ideas.",
+    "Publisher": " CRC Press, Year: 2003",
+    "image": "1722347460466-Sexual Murder.jpg",
+    "pdf": "1722347460477-Louis B. Schlesinger - Sexual Murder_ Catathymic and Compulsive Homicides-CRC Press (2003).pdf"
+  },
+  {
+    "id": 3,
+    "title": "Sexual Murder",
+    "author": " Louis B. Schlesinger",
+    "description": "Forensic psychologist and author Louis B. Schlesinger delves deep into the minds of sexual murderers. It is a place where few dare to tread, but a necessary journey if we are to understand the motivations behind their inconceivable actions. Culminating nearly 30 years of experience analyzing sexually motivated homicides, Sexual Murder: Catathymic and Compulsive Homicides makes this complex phenomenon fully comprehensible.The author provides a strong foundation by first exploring the psychopathology of sexual homicide within the context of nonsexual homicide. He also discusses forensic assessment of the sexual murderer, theories of crime, and systems of homicide classification. The remaining chapters explore the two types of sexual murders: catathymic, caused by a breakthrough of underlying sexual conflicts, and compulsive, in which a fusion of sex and aggression results in a powerful internal drive that pushes the offender to seek out victims to kill - and the killing itself is sexually gratifying. Presenting both forms of sexual murder from a clinical-descriptive perspective, the book provides historical background and examines both planned and unplanned homicides for each. Finally, it considers prediction, disposition, and possibilities for preventing sexual murder.Providing a fresh approach to an old crime, Sexual Murder: Catathymic and Compulsive Homicides brings intriguing theories and detailed analyses to life. Through a variety of illustrative case examples from the author's vast experience, this amazing book will broaden your view of sexual murder and alter many preconceived ideas.",
+    "Publisher": " CRC Press, Year: 2003",
+    "image": "1722382540094-Sexual Murder.jpg",
+    "pdf": "1722382540123-Louis B. Schlesinger - Sexual Murder_ Catathymic and Compulsive Homicides-CRC Press (2003).pdf"
+  },
+  {
+    "id": 4,
+    "title": "Sexual Murder",
+    "author": " Louis B. Schlesinger",
+    "description": "Forensic psychologist and author Louis B. Schlesinger delves deep into the minds of sexual murderers. It is a place where few dare to tread, but a necessary journey if we are to understand the motivations behind their inconceivable actions. Culminating nearly 30 years of experience analyzing sexually motivated homicides, Sexual Murder: Catathymic and Compulsive Homicides makes this complex phenomenon fully comprehensible.The author provides a strong foundation by first exploring the psychopathology of sexual homicide within the context of nonsexual homicide. He also discusses forensic assessment of the sexual murderer, theories of crime, and systems of homicide classification. The remaining chapters explore the two types of sexual murders: catathymic, caused by a breakthrough of underlying sexual conflicts, and compulsive, in which a fusion of sex and aggression results in a powerful internal drive that pushes the offender to seek out victims to kill - and the killing itself is sexually gratifying. Presenting both forms of sexual murder from a clinical-descriptive perspective, the book provides historical background and examines both planned and unplanned homicides for each. Finally, it considers prediction, disposition, and possibilities for preventing sexual murder.Providing a fresh approach to an old crime, Sexual Murder: Catathymic and Compulsive Homicides brings intriguing theories and detailed analyses to life. Through a variety of illustrative case examples from the author's vast experience, this amazing book will broaden your view of sexual murder and alter many preconceived ideas.",
+    "Publisher": " CRC Press, Year: 2003",
+    "image": "1722923530987-Sexual Murder.jpg",
+    "pdf": "1722923531017-Louis B. Schlesinger - Sexual Murder_ Catathymic and Compulsive Homicides-CRC Press (2003).pdf"
+  },
+  {
+    "id": 5,
+    "title": "How to Seduce a Bride",
+    "author": "Edith Layton",
+    "description": "While this is not my favorite Layton novel, it is still a very good read, primarily because of the delicious male protagonist. He manages to be both manly and sensitive and behaves just as a hero ought. Granted, the heroine is a little single-minded in her pursuit of a \"safe\" older man, but the reader should remember that this is an abused woman who has been fighting for survival for many years. If it takes her a while to realize that she has developed beyond what she originally thought she wanted, that is to be expected.\n",
+    "Publisher": "HarperCollins, Year: 2006",
+    "image": "1722923827602-How to sedue a Bride.png",
+    "pdf": "1722923827624-(Avon historical romance) Edith Layton - How to Seduce a Bride-HarperCollins (2006).pdf"
+  },
+  {
+    "id": 6,
+    "title": "It Happened One Night",
+    "author": "Stephanie Laurens, Mary Balogh, Jacquie D'alessandro, Candice Hern",
+    "description": "The plot seemed interesting-how 4 different authors tell a story using the same storyline (former love interests rekindling their love affairs after 10 years stopping at the same inn during different seasons of the year). Although some of these writers are best selling authors in their own right the stories were not memorable in the least. I have read similar books written by multiple authors and the stories although short were interesting and the characters engaging! These unfortunately were not. Pass on this book it is not worth the money or the time devoted in reading it. I just can't believe this was a R. I.T. A award winning book!?",
+    "Publisher": "Avon Books, Year: 2008",
+    "image": "1722924406981-it happened on night.png",
+    "pdf": "1722924407035-(Avon historical romance) Stephanie Laurens, Mary Balogh, Jacquie D'alessandro, Candice Hern - It Happened One Night-Avon Books (2008).pdf"
+  },
+  {
+    "id": 7,
+    "title": "The International Politics of Space",
+    "author": " Michael Sheehan",
+    "description": "The year 2007 will see the 50th anniversary of the Space Age, which began with the launching of Sputnik by the Soviet Union in October 1957. Since that time, the development of space technology has revolutionised many aspects of life on Earth, from satellite television to mobile phones, the internet and micro-electronics. It has also helped to bring about a revolution in the use of military force by the most powerful states.Space is crucial to the politics of the postmodern world. It has seen competition and cooperation in the past fifty years, and is in danger of becoming a battlefield in the next fifty. The International Politics of Space is the first book to bring these crucial themes together and provide a clear and vital picture of how politically important space has become, and what its exploitation might mean for all our futures.Michael Sheehan analyses the space programmes of the United States, Russia, China, India and the European Space Agency, and explains how central space has become to issues of war and peace, international law, justice and international development, and cooperation between the worlds leading states. It highlights the significance of China and India's commitment to space, and explains how the theories and concepts we use to describe and explain space are fundamental to the possibility of avoiding conflict in space in the future.This ground-breaking book will be of great interest to students of international relations, space politics and security studies.",
+    "Publisher": " Michael Sheehan",
+    "image": "1722924761971-The international politiccs of space.png",
+    "pdf": "1722924761975-(Space, power and politics) Michael Sheehan - The International Politics of Space-Routledge (2007).pdf"
+  },
+  {
+    "id": 8,
+    "title": "The Politics of Nationalism in Ghana",
+    "author": "Michael Amoah",
+    "description": "The established theories and debates on nationalism were formed in the twin crucibles of Eighteenth-century Europe and America, and continue to be informed by that heritage. Reconstructing the Nation in Africa challenges some of the key principles that underlie the current debates on nationalism by exploring in depth the experience of multinational states in Africa. Taking Ghana as a case study, Michael Amoah introduces and develops two important new contributions to the theoretical tapestry of nationalism --the Rationalisation of Nationalism and Reconstructing the Nation, concepts that should have wide use and currency in the broader discussion of the national phenomenon. Reconstructing the Nation in Africa argues that the nationhood of Ghana is not rooted in modernity as is generally thought, and attempts to show by analysis of the microbehavior of its population that traditional views on the viability of the multinational state do not necessarily hold true for modern-day Africa.",
+    "Publisher": " I.B.Tauris, Year: 2007",
+    "image": "1722925180181-recontructing the nation of Ghana.png",
+    "pdf": "1722925180187-Michael Amoah - Reconstructing the Nation in Africa_ The Politics of Nationalism in Ghana-I.B.Tauris (2007).pdf"
+  },
+  {
+    "id": 9,
+    "title": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger",
+    "description": "Passionately in love, Clare and Henry vow to hold onto each other and their marriage as they struggle with the effects of Chrono-Displacement Disorder, a condition that casts Henry involuntarily into the world of time travel.",
+    "Publisher": "MacAdam/Cage, Year: 2003",
+    "image": "1722925750592-the  time travelller's wife.png",
+    "pdf": "1722925750618-Audrey Niffenegger - The Time Traveler's Wife-MacAdam_Cage (2003).pdf"
+  },
+  {
+    "id": 10,
+    "title": "The 7 habits of highly effective people",
+    "author": " stephen covey",
+    "description": "",
+    "Publisher": "Franclin Covey Co",
+    "image": "1722926219693-the 7 habits of highly effective people.png",
+    "pdf": "1722926219759-stephen covey - The 7 habits of highly effective people-Franclin Covey Co.pdf"
   }
 ]

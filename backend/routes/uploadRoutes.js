@@ -61,7 +61,7 @@ router.post("/", (request, response) => {
         title: request.body.title,
         author: request.body.author,
         description: request.body.description,
-        published: request.body.published,
+        Publisher: request.body.Publisher,
         image: request.files.image ? request.files.image[0].filename : null,
         pdf: request.files.pdf ? request.files.pdf[0].filename : null
       };
